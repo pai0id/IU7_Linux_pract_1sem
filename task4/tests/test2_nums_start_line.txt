@@ -1,0 +1,2 @@
+1e3 test 2.0E-2 test 3.5 test
+ -4.44 test 5e2 test

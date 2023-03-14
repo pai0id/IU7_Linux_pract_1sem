@@ -1,0 +1,3 @@
+zero os
+test 0 one two rstring: three four
+five six
